@@ -1,4 +1,5 @@
 function fn(){
 	var a = 3;
-	return a;
+	var b = 3
+	return a + b;
 }
